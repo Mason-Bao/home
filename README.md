@@ -1,2 +1,2 @@
 # home
-Auto/manual N-gauge train model controller
+Making an Auto/manual N-gauge train model controller
